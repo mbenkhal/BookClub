@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: bookClub
+netty:
+  default:
+    allocator:
+      max-order: 3
